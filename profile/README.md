@@ -1,23 +1,21 @@
-Data-Driven Culture, Open Minds
--------------------------------
+Our culture is Who We Are
+-------------------------
+
+We believe that our culture is an essential part of our identity. As both a data-driven and open group, our culture defines us and influences how we interact with the world. It is reflected in our products and services, but also in the way we live, work, and play.
+
+### Data-Driven Culture
 
 Data is our origin story. It’s how we came to be. We’re a group with an data-driven development model, and we believe working in the data-empowered environment is the best way to work for the larger and bettern quality softwares and for technological innovation as a whole.
 
 Data analytics principles guide how we create software and how we work across the company. We are encouraged to sove problem with all kinds of data. This ensures that the best insights - the ones that creatively address our users' challenges or improve software qualities - are discovered and implemented, leading to better decisions for our business and users.
 
+> **What does "data-driven" mean?**
+>
+> In the context of our work, "data-driven" means creating technological solutions and enhance working quality in ways that are supported by data 
+> analytics. 
 
-Why We Choose Open Source - Inspiring Innovation by Working in the Open
------------------------------------------------------------------------
+### Open culture, Open Minds
 
-Bringing technologies from the open source community and readying them for the enterprise benefits many open source 
-communities and companies that are adapting to meet the needs of modern digital business.
+Because we believe open unlocks the world’s potential. Our people, processes, and tools define our culture and are the core ingredients of our goal. We use open source principles and DevOps practices throughout our group to maximize flexibility, transparency, and speed.
 
-Open source is part of our founder's origin story. It's in many cases how he came to be. We're a group with an open
-source development model, and we believe working in the open is the best way to work for the larger open source
-community and for **technological innovation** as a whole.
-
-Open source principles guide how we create software and how we work across the company. Teams are encouraged to
-contribute to problem solving, no matter their role or experience level. This ensures that the best ideas - the ones
-that creatively address our customers' challenges - are heard and implemented, leading to better decisions for our
-business and customers.
-
+Our team freely exchanges different viewpoints, contributes ideas, and solves problems together. We celebrate diversity and inclusion. Our love of collaboration, accountability, a sense of community, and a measure of autonomy combine to create a powerful force that fosters innovation and makes us a great place to work.

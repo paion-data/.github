@@ -16,7 +16,7 @@ Data analytics principles guide how we create software and how we work across th
 
 #### Manifestation - Repo Labeling System as Required Working Component
 
-We require that each repo of our team [having a "MERGEABLE" label](https://github.com/QubitPi/athena/labels) Using this GitHub open feature, we are able to effectively analyze the coding behavior of each member of our team and provide, during one-on-one meeting for example, convincing feedback in order to help our employee's growth
+We require that each repo of our team [having a "MERGEABLE" label](https://github.com/QubitPi/athena/labels). Using this GitHub open feature, we are able to effectively analyze the coding behavior of each member of our team and provide, during one-on-one meeting for example, convincing feedback in order to help our employee's growth
 
 > The label "MERGEABLE" was adopted from [yahoo/fili](https://github.com/yahoo/fili/labels/MERGEABLE), a Yahoo open source project where the founder learned a lot about software standards. 
 

@@ -9,6 +9,14 @@ Data is our origin story. It’s how we came to be. We’re a group with an data
 
 Data analytics principles guide how we create software and how we work across the company. We are encouraged to sove problem with all kinds of data. This ensures that the best insights - the ones that creatively address our users' challenges or improve software qualities - are discovered and implemented, leading to better decisions for our business and users.
 
+#### Manifestation - Repo Labeling System as Required Working Component
+
+We require that each repo of our team having a "MERGEABLE" label:
+
+<img width="482" alt="labels" src="https://user-images.githubusercontent.com/16126939/189565617-5fd4917e-4cdb-42f8-9f82-fe1185508369.png">
+
+Using this GitHub open feature, we are able to effectively analyze the coding behavior of each member of our team and provide, during one-on-one meeting for example, convincing feedback in order to help our employee's growth
+
 > **What does "data-driven" mean?**
 >
 > In the context of our work, "data-driven" means creating technological solutions and enhance working quality in ways that are supported by data 

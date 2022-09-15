@@ -13,7 +13,7 @@ We never text-message people sitting next to us. **We talk**
 
 We never sneak through a problem. **We discuss**.
 
-We do nothing before a communication because we believe nothing great happens if people are not **communication lover**.
+We do nothing before communication because we believe nothing great happens if people do not find **communication interesting**.
 
 ### 🌟 Data-Driven Culture 🌟
 

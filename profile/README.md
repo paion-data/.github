@@ -26,12 +26,6 @@ Because we believe open unlocks the world’s potential. Our people, processes, 
 
 Our team freely exchanges different viewpoints, contributes ideas, and solves problems together. We celebrate diversity and inclusion. Our love of collaboration, accountability, a sense of community, and a measure of autonomy combine to create a powerful force that fosters innovation and makes us a great place to work.
 
-
-
-
-
-
-
 ### Everything is built on top of Standards
 
 In our team, we _promote_ open standards with proven records and _kill_ personally-invented techniques because they do not improve team efficiency (_We've seen vividly some companies who treated standards as toilet paper, such as getting rid of Agile meetings and being stupid enough to write softwares without automated tests. These companies all ended up being hell_)
@@ -48,4 +42,4 @@ $Time(\text{delivering a feature}) \ge 4 \times Time(\text{implementation})$
   
 In addition, we will let developer take a break so they have enough time to forget about what they did in implementation & test before having them do a self-code-review
 
-<img align="center" alt="swe-is-not-just-coding.png" width="35%" src="https://user-images.githubusercontent.com/16126939/190294177-ab058dbc-2f6f-4b71-9523-f60e4c696f4e.png">
+<img align="right" alt="swe-is-not-just-coding.png" width="35%" src="https://user-images.githubusercontent.com/16126939/190294177-ab058dbc-2f6f-4b71-9523-f60e4c696f4e.png">

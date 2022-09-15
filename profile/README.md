@@ -34,7 +34,7 @@ In our team, we _promote_ open standards with proven records and _kill_ personal
 
 The amount of time to deliver a feature = Time(implementation) + Time(write test) + Time(code review) + Time(write documentation), where
 
-$Time(\text{implementation}) \le Time(\text{write test}) \le Time(\text{code review}) \le Time(\text{write documentation})$
+$Time(\text{write documentation}) \ge Time(\text{code review}) \ge Time(\text{write test}) \ge Time(\text{implementation})$
   
 or, our team planning follows
   

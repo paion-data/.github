@@ -42,7 +42,7 @@ Our team freely exchanges different viewpoints, contributes ideas, and solves pr
 
 In our team, we _promote_ open standards with proven records and _kill_ personally-invented techniques because they do not improve team efficiency (_We've seen vividly some companies who treated standards as toilet paper, such as getting rid of Agile meetings and being stupid enough to write softwares without automated tests. These companies all ended up being hell_)
 
-### Software is Much More Than Coding
+### Software Development is Much More Than Coding - It's for Human to Read and Maintain
 
 The amount of time to deliver a feature = Time(implementation) + Time(write test) + Time(code review) + Time(write documentation), where
 

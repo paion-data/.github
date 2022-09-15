@@ -5,7 +5,7 @@ We believe that our culture is an essential part of our identity. As both a data
 
 ### 🌟 We Make It Our Product Before It Becomes Customer's Product 🌟
 
-If it's not a solution for us, it won't be a one for anybody else. We believe **WE are customers/users first**, because that's the only way for us to **love what we are doing** and **make users love what we make**
+If it's not a solution for us, it won't be for anybody else. We believe **WE are customers/users first**, because that's the only way for us to **love what we are doing** and **make users love what we make**
 
 ### 🌟 Human Communications 🌟
 

@@ -3,7 +3,9 @@ Our culture is Who We Are
 
 We believe that our culture is an essential part of our identity. As both a data-driven and open group, our culture defines us and influences how we interact with the world. It is reflected in our products and services, but also in the way we live, work, and play.
 
-### Data-Driven Culture
+#### 🌟 Human Communications 🌟
+
+### 🌟 Data-Driven Culture 🌟
 
 Data is our origin story. It’s how we came to be. We’re a group with an data-driven development model, and we believe working in the data-empowered environment is the best way to work for the larger and bettern quality softwares and for technological innovation as a whole.
 
@@ -19,6 +21,10 @@ Data analytics principles guide how we create software and how we work across th
 We require that each repo of our team [having a "MERGEABLE" label](https://github.com/QubitPi/athena/labels). Using this GitHub open feature, we are able to effectively analyze the coding behavior of each member of our team and provide, during one-on-one meeting for example, convincing feedback in order to help our employee's growth
 
 > The label "MERGEABLE" was adopted from [yahoo/fili](https://github.com/yahoo/fili/labels/MERGEABLE), a Yahoo open source project where the founder learned a lot about software standards. 
+
+### 🌟 We Make It Our Product Before It Becomes Customer's Product 🌟
+
+If it's not our problem to deal with, we will not ship it to anybody else. We believe **we are customers/users first**, because that's the only way for us to **love it** and **make users love the solution**
 
 ### Open culture, Open Minds
 

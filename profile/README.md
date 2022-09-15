@@ -9,7 +9,7 @@ If it's not a solution for us, it won't be for anybody else. We believe **WE are
 
 ### 🌟 Human Communications 🌟
 
-We never text message people sitting next to us. **We talk**
+We never text-message people sitting next to us. **We talk**
 
 We never sneak through a problem. **We discuss**.
 

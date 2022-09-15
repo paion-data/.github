@@ -3,7 +3,13 @@ Our culture is Who We Are
 
 We believe that our culture is an essential part of our identity. As both a data-driven and open group, our culture defines us and influences how we interact with the world. It is reflected in our products and services, but also in the way we live, work, and play.
 
-#### 🌟 Human Communications 🌟
+### 🌟 Human Communications 🌟
+
+We never text message people sitting next to us. We talk instead.
+
+We never sneak through a problem. We discuss.
+
+We do nothing before a communication because we believe nothing great happens if people are not communication lover.
 
 ### 🌟 Data-Driven Culture 🌟
 

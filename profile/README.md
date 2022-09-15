@@ -5,7 +5,7 @@ We believe that our culture is an essential part of our identity. As both a data
 
 ### 🌟 Human Communications 🌟
 
-We never text message people sitting next to us. We talk instead.
+We never text message people sitting next to us.
 
 We never sneak through a problem. We discuss.
 

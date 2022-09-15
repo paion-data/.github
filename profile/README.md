@@ -9,11 +9,11 @@ If it's not a solution for us, it won't be for anybody else. We believe **WE are
 
 ### 🌟 Human Communications 🌟
 
-We never text message people sitting next to us.
+We never text message people sitting next to us. **We talk**
 
-We never sneak through a problem. We discuss.
+We never sneak through a problem. **We discuss**.
 
-We do nothing before a communication because we believe nothing great happens if people are not communication lover.
+We do nothing before a communication because we believe nothing great happens if people are not **communication lover**.
 
 ### 🌟 Data-Driven Culture 🌟
 

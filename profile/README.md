@@ -54,6 +54,6 @@ $Time(\text{delivering a feature}) \ge 4 \times Time(\text{implementation})$
   
 In addition, we will let developer take a break so they have enough time to forget about what they did in implementation & test before having them do a _self-code-review_. 
 
-In the end, we [have no QA](https://news.ycombinator.com/item?id=10718742)
+In the end, we [deliver better software without QA](https://news.ycombinator.com/item?id=10718742)
 
 <img align="right" alt="swe-is-not-just-coding.png" width="35%" src="https://user-images.githubusercontent.com/16126939/190294177-ab058dbc-2f6f-4b71-9523-f60e4c696f4e.png">

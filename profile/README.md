@@ -7,7 +7,7 @@ We believe that our culture is an essential part of our identity. As both a data
 
 We believe **WE are product users first**
 
-A product will make our team members's life easier and become a must-have for our daily lives; only after that will we ship to our public users, because this is the only way for us to **love what we are doing** and **make users love what we make**
+A product will make our team members's lives easier and more fun; it becomes a must-have for our daily lives; only after that will we ship it to our public, because this is the only way for us to **love what we are doing** and **make users love what we make**
 
 ### 🌟 Data-Driven Culture
 

@@ -5,7 +5,9 @@ We believe that our culture is an essential part of our identity. As both a data
 
 ### 🌟 If It's Not a Solution for Us, It Won't Be for Anybody Else
 
-We believe **WE are product users first**; this product will make us happy, makes our life easier, and we love it; after that, it goes to outsider customers, because that's the only way for us to **love what we are doing** and **make users love what we make**
+We believe **WE are product users first**
+
+A product will make our team members's life easier and become a must-have for our daily lives; only after that will we ship to our public users, because this is the only way for us to **love what we are doing** and **make users love what we make**
 
 ### 🌟 Data-Driven Culture
 

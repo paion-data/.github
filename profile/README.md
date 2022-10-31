@@ -11,9 +11,9 @@ A product will make our team members' lives easier and more fun; it becomes a mu
 
 ### 🌟 Data-Driven Culture
 
-**Data is our origin story**. It’s how we came to be. We’re a group with an data-driven development model, and we believe working in the data-empowered environment is the best way to work for the larger and bettern quality softwares and for technological innovation as a whole.
+**Data is our origin story**. It’s how we came to be. We’re a group with an data-driven development model, and we believe working in the data-empowered environment is the best way to work for the larger and better quality softwares and for technological innovation as a whole.
 
-Data analytics principles guide how we create software and how we work across the company. We are encouraged to sove problem with all kinds of data. This ensures that the best insights - the ones that creatively address our users' challenges or improve software qualities - are discovered and implemented, leading to better decisions for our business and users.
+Data analytics principles guide how we create software and how we work across the company. We are encouraged to solve problem with all kinds of data. This ensures that the best insights - the ones that creatively address our users' challenges or improve software qualities - are discovered and implemented, leading to better decisions for our business and users.
 
 ### 🌟 Human Communications
 

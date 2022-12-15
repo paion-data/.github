@@ -23,7 +23,10 @@ We never sneak through a problem. **We discuss**.
 
 We do nothing before communicating because we believe nothing great happens if people do not find **communication interesting**.
 
+<div align="center">
 
 <a href="https://www.bilibili.com/video/BV1VB4y1h7Km?share_source=copy_web&vd_source=7f40ee8f7150cba61ecdf3d901bbad42">
     <img align="center" width="15%" alt="七七喊你加入我们" src="https://user-images.githubusercontent.com/16126939/193050832-42c2b393-4fc6-4f86-adce-2cb6d3662b0b.png">
 </a>
+    
+</div>

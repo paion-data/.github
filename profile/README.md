@@ -1,3 +1,6 @@
+
+We’re in the business of enriching lives by addressing key human needs, whether it’s the desire to the unknown, the interests to the deep insight of sea of knowledges, or simply the need to sort and manage knowledges
+
 Our culture is Who We Are
 -------------------------
 

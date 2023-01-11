@@ -1,30 +1,27 @@
+A Paion Story
+=============
 
-We’re in the business of enriching lives by addressing key human needs, whether it’s the desire to the unknown, the interests to the deep insight of sea of knowledges, or simply the need to sort and manage knowledges. Our goal is to start creating products that help people become smarter in their lives and make them live better
+At the Summer of 2013, a College body received a tough assignment to look at from his Quantum Physics research professor. 
 
-Our culture is Who We Are
--------------------------
+"Jiaqi, I would like you to try some numerical analysis to investigate this nano-scale Quantum battery environment. This environment is described by this finite-wall-potential [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation). It'd be great if you could solve this potential and plot the solution so we can visually understand how an electron behaves in this space in terms of energy preservation."
 
-We believe that our culture is an essential part of our identity. As both a data-driven and open group, our culture defines us and influences how we interact with the world. It is reflected in our products and services, but also in the way we live, work, and play.
+**Let me explain what my professor just said above in a 3rd-grade language**: basically, it means if you were to give this problem to [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), very likely he would look at you with a pair of hopeless eyes and yell at you saying: "No way man, no! I know human limit. No solution with a paper and a pen. It's over!" 
 
-### 🌟 If It's Not a Solution for Us, It Won't Be for Anybody Else
+Not only does it sounds impractical, it actually was from my standpoint as a Junior Physics major. It's Quantum Physics! To me, it's a world of "no-solutions"! And this problem in particular is no exception! How am I supposed to finish this assignment even when the top Physics student like Einstein has no idea about???
 
-We believe **WE are product users first**
+"Well, he mentioned 'numerical analysis'. It's 2013; we have computers. How about [Googling](https://google.com/) this question online" :) ? You know, I often check the weather tomorrow with Google, so maybe Google does have some clue on something that God knows (or not), yeah? :) I was joking to myself, but I really was ready to give up at that moment. Just to give it a shot. 
 
-A product will make our team members' lives easier and more fun; it becomes a must-have for our daily lives; only after that will we ship it to public, because this is the only way for us to **love what we are doing** and **make users love what we make**
+I typed something like "numerical method on Schrödinger Equation" and, surprisingly, Google took me to a recently-published [Quantum Physics paper](https://pages.physics.wisc.edu/~tgwalker/106.Numerov.pdf). It's a very interesting paper that basically told you how to approximate solution of this Einstein-gave-up question with what they claimed "very high accurracy" using some computer simulations. To me, that was a very simple 40-50 lines of computer codes. So I plugged in these codes and within about a minute of computation, the program showed me something like the following on screen:
 
-### 🌟 Data-Driven Culture
+<img width="330" alt="solution" src="https://user-images.githubusercontent.com/16126939/211826292-782b726e-0e78-42c4-9dcd-a193a96f1480.png">
 
-**Data is our origin story**. It’s how we came to be. We’re a group with an data-driven development model, and we believe working in the data-empowered environment is the best way to work for the larger and better quality softwares and for technological innovation as a whole.
+"That's not 'very high accurracy', dude! It's exactly what I want, man!". As I shout out loud, I was amazed by how vivid the solution looks and by the fact that I immediately showed some interesting properties on the problem that my professor and I were looking at. 
 
-Data analytics principles guide how we create software and how we work across the company. We are encouraged to solve problem with all kinds of data. This ensures that the best insights - the ones that creatively address our users' challenges or improve software qualities - are discovered and implemented, leading to better decisions for our business and users.
+I never realized that the moment I see the computer program result above was actually the beginning of my life-long career. With the help of Google and the help of my computer simulation results, I got A+ from my professor on that research seminar. With computer code and some data, a Junior college student, who didn't quite believe in Quantum Mechanics, solved a problem that Quantum Physics invenstor said impossible. 
 
-### 🌟 Human Communications
+I belive the future will be a world where any complex problems are reduced to trivial tasks by solving the problem and presenting the solultion in a vivi non-traditional way. And that's why I founded Paion Data: Revolutionizing problem solving with Data. 
 
-We never text-message people sitting next to us. **We talk**
-
-We never sneak through a problem. **We discuss**.
-
-We do nothing before communicating because we believe nothing great happens if people do not find **communication interesting**.
+> To the professor in this story, [Alfred W. Hubler](https://physics.illinois.edu/people/memorials/36109) who passed away following a tough health conditions, thank you for guiding this college boy to find his career passion; he, along with his company, will never give up making this world a better place, just like what you committed into your Physics research with your life.
 
 <div align="center">
 

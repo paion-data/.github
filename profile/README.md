@@ -13,8 +13,8 @@ Not only does it sounds impractical, it actually was from my standpoint as a Jun
 
 I typed something like "numerical method on Schrödinger Equation" and, surprisingly, Google took me to a recently-published [Quantum Physics paper](https://pages.physics.wisc.edu/~tgwalker/106.Numerov.pdf). It's a very interesting paper, because it was trying to solve the same problem I was trying to tackle. The paper basically told you how to approximate solution of this Einstein-gave-up question with what they claimed "very high accurracy" using some computer simulations. To me, that was a very simple 40-50 lines of computer codes. So I plugged in these codes and within about a minute of computation, the program showed me a computer-generated solution exactly the same presented in the paper; the one shown below
 
-<div>
-<img align="center" width="330" alt="solution" src="https://user-images.githubusercontent.com/16126939/211826292-782b726e-0e78-42c4-9dcd-a193a96f1480.png">
+<div align="center">
+    <img align="center" width="60%" alt="solution" src="https://user-images.githubusercontent.com/16126939/211826292-782b726e-0e78-42c4-9dcd-a193a96f1480.png">
 </div>
 
 "That's not 'very high accurracy', dude! It's exactly what I want, man!". As I shout out loud, I was amazed by how vivid the solution looked and by the fact that it immediately showed some interesting properties on the problem that my professor and I were looking at. 

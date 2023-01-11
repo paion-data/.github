@@ -5,7 +5,7 @@ At the Summer of 2013, a College body received a tough assignment to look at fro
 
 "Jiaqi, I would like you to try some numerical analysis to investigate this nano-scale Quantum battery environment. This environment is described by this finite-wall-potential [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation). It'd be great if you could solve this potential and plot the solution so we can visually understand how an electron behaves in this space in terms of energy preservation."
 
-**Let me explain what my professor just said above in a 3rd-grade language**: basically, it means if you were to give this problem to [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), very likely he would look at you with a pair of hopeless eyes and yell at you saying: "No way man, no! I know human limit. No solution with a paper and a pen. It's over!" 
+**Let me explain what my professor just said above in a 3rd-grade language**: basically, it means if you were to give this problem to [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), who was believed to be one of the founders of Quantum Physics, very likely he would look at you with a pair of hopeless eyes and yell at you saying: "No way man, no! I know human limit. No solution with a paper and a pen. It's over!" 
 
 Not only does it sounds impractical, it actually was from my standpoint as a Junior Physics major. It's Quantum Physics! To me, it's a world of "no-solutions"! And this problem in particular is no exception! How am I supposed to finish this assignment even when the top Physics student like Einstein has no idea about???
 

@@ -21,7 +21,7 @@ I typed something like "numerical method on Schrödinger Equation" and, surprisi
 
 I never realized that the moment I see the computer program result above was actually the beginning of my life-long career. With the help of Google and the help of my computer simulation results, I got A+ from my professor on that research seminar. With computer code and some data, a Junior college student, who didn't quite believe in Quantum Mechanics, solved a problem that Quantum Physics inventor said impossible. 
 
-I belive the future will be a world where any complex problems are reduced to trivial tasks by solving the problem and presenting the solultion in a vivi non-traditional way. And that's why I founded Paion Data: Revolutionizing problem solving with Data. 
+I belive the future will be a world where any complex problems are reduced to trivial tasks by solving the problem and presenting the solultion in a vivid and non-traditional way. And that's why I founded Paion Data: Revolutionizing problem solving with Data and Technology.
 
 > To the professor in this story, [Alfred W. Hubler](https://physics.illinois.edu/people/memorials/36109) who passed away following a tough health conditions, thank you for guiding this college boy to find his career passion; he, along with his company, will never give up making this world a better place, just like what you committed into your Physics research with your life.
 

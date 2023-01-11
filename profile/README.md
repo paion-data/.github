@@ -17,7 +17,7 @@ I typed something like "numerical method on Schrödinger Equation" and, surprisi
 <img align="center" width="330" alt="solution" src="https://user-images.githubusercontent.com/16126939/211826292-782b726e-0e78-42c4-9dcd-a193a96f1480.png">
 </div>
 
-"That's not 'very high accurracy', dude! It's exactly what I want, man!". As I shout out loud, I was amazed by how vivid the solution looks and by the fact that I immediately showed some interesting properties on the problem that my professor and I were looking at. 
+"That's not 'very high accurracy', dude! It's exactly what I want, man!". As I shout out loud, I was amazed by how vivid the solution looked and by the fact that it immediately showed some interesting properties on the problem that my professor and I were looking at. 
 
 I never realized that the moment I see the computer program result above was actually the beginning of my life-long career. With the help of Google and the help of my computer simulation results, I got A+ from my professor on that research seminar. With computer code and some data, a Junior college student, who didn't quite believe in Quantum Mechanics, solved a problem that Quantum Physics invenstor said impossible. 
 

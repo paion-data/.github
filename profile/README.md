@@ -19,7 +19,7 @@ I typed something like "numerical method on Schrödinger Equation" and, surprisi
 
 "That's not 'very high accurracy', dude! It's exactly what I want, man!". As I shout out loud, I was amazed by how vivid the solution looked and by the fact that it immediately showed some interesting properties on the problem that my professor and I were looking at. 
 
-I never realized that the moment I see the computer program result above was actually the beginning of my life-long career. With the help of Google and the help of my computer simulation results, I got A+ from my professor on that research seminar. With computer code and some data, a Junior college student, who didn't quite believe in Quantum Mechanics, solved a problem that Quantum Physics inventor said impossible. 
+I never realized that the moment I see the computer program result above was actually the beginning of my life-long career. With the help of Google and the help of my slightly modified computer simulation results, I got A+ from my professor on that research seminar. With computer code and some data, a Junior college student, who didn't quite believe in Quantum Mechanics, solved a problem that Quantum Physics inventor said impossible. 
 
 I belive the future will be a world where any complex problems are reduced to trivial tasks by solving the problem and presenting the solultion in a vivid and non-traditional way. And that's why I founded Paion Data: Revolutionizing problem solving with Data and Technology.
 

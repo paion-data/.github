@@ -1,7 +1,7 @@
 A Paion Story
 =============
 
-At the Summer of 2013, a College body received a tough assignment to look at from his Quantum Physics research professor. 
+In the Summer of 2013, a College body received a tough assignment to look at from his Quantum Physics research professor. 
 
 "Jiaqi, I would like you to try some numerical analysis to investigate this nano-scale Quantum battery environment. This environment is described by this finite-wall-potential [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation). It'd be great if you could solve this potential and plot the solution so we can visually understand how an electron behaves in this space in terms of energy preservation."
 

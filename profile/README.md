@@ -7,7 +7,7 @@ In the Summer of 2013, a college body received a tough assignment to look at fro
 
 **Let me explain what my professor just said above in a 3rd-grade language**: basically, it means if you were to give this problem to [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein), who was believed to be one of the founders of Quantum Physics, very likely he would look at you with a pair of hopeless eyes and yell at you saying: "No way man, no! I know human limit. You just can't do it. It's over!" 
 
-This problem is impossible from my standpoint as a Junior Physics major. Quantum Physics, to me, is a "world of no-solutions". And this problem in particular is no exception. How am I supposed to finish this assignment even when the top Physics student like Einstein has no idea about?
+Indeed, this problem was impossible from my standpoint as a Junior Physics major. Quantum Physics, to me, was a "world of no-solutions". And this problem in particular was no exception. How were I supposed to finish this assignment even when the top Physics student like Einstein had no idea about?
 
 "Well, he mentioned 'numerical analysis'. It's 2013; we have computers. How about [Googling](https://google.com/) this question online" :) ? You know, I often check the weather tomorrow with Google, so maybe Google does have some clue on something that God knows (or not), yeah? :) I was joking to myself, but I really was ready to give up at that moment. Just to give it a shot. 
 

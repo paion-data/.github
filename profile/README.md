@@ -1,4 +1,6 @@
-### Special Thanks to our Following Open Source Project Contributors Who Make Individual Human More Powerful with Technologies 
+**Special Thanks to our Following Open Source Project Contributors Who Make Individual Human More Powerful with Technologies**
+
+<div align="center">
 
 <table>
 <tr>
@@ -24,3 +26,5 @@
         </a>
     </td></tr>
 </table>
+
+</div>

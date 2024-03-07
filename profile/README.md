@@ -5,28 +5,28 @@
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/Xxy1016">
+        <a href="https://github.com/pulls?q=is%3Apr+user%3Apaion-data+archived%3Afalse+author%Xxy1016">
             <img src="https://avatars.githubusercontent.com/u/125425805?v=4" width="100;" alt="Xxy1016"/>
             <br />
             <sub><b>Xxy1016</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/TristeOak">
+        <a href="https://github.com/pulls?q=is%3Apr+user%3Apaion-data+archived%3Afalse+author%TristeOak">
             <img src="https://avatars.githubusercontent.com/u/100420496?v=4" width="100;" alt="TristeOak"/>
             <br />
             <sub><b>TristeOak</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/fannifanni">
+        <a href="https://github.com/pulls?q=is%3Apr+user%3Apaion-data+archived%3Afalse+author%fannifanni">
             <img src="https://avatars.githubusercontent.com/u/135085401?v=4" width="100;" alt="fannifanni"/>
             <br />
             <sub><b>fannifanni</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/LiuS1mple">
+        <a href="https://github.com/pulls?q=is%3Apr+user%3Apaion-data+archived%3Afalse+author%3ALiuS1mple">
             <img src="https://avatars.githubusercontent.com/u/94522402?v=4" width="100;" alt="LiuS1mple"/>
             <br />
             <sub><b>LiuS1mple</b></sub>

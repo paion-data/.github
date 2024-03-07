@@ -24,6 +24,13 @@
             <br />
             <sub><b>fannifanni</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/LiuS1mple">
+            <img src="https://avatars.githubusercontent.com/u/94522402?v=4" width="100;" alt="LiuS1mple"/>
+            <br />
+            <sub><b>fannifanni</b></sub>
+        </a>
     </td></tr>
 </table>
 

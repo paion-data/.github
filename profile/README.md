@@ -1,4 +1,4 @@
-**Special Thanks to our Following Open Source Project Contributors Who Make Individual Human More Powerful Together**
+**Special Thanks to our Following Open Source Project Contributors Who Make Individual More Powerful Together**
 
 <div align="center">
 

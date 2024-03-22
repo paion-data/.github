@@ -12,6 +12,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/pulls?q=is%3Apr+user%3Apaion-data+archived%3Afalse+author%3ADoom9527">
+            <img src="https://avatars.githubusercontent.com/u/164460473?v=4" width="100;" alt="Doom9527"/>
+            <br />
+            <sub><b>Doom9527</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/pulls?q=is%3Apr+user%3Apaion-data+archived%3Afalse+author%3ATristeOak">
             <img src="https://avatars.githubusercontent.com/u/100420496?v=4" width="100;" alt="TristeOak"/>
             <br />

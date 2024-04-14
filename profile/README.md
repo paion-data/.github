@@ -93,4 +93,5 @@ Our Open Source Projects
 [![react-components](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=react-components&show_owner=true&theme=react)](https://github.com/paion-data/react-components)
 
 [![AI Markdown Translator](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=ai-translation4markdown&show_owner=true&theme=chartreuse-dark)](https://github.com/paion-data/ai-translation4markdown)
+[![AI Markdown Translator Java](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=ai-translation4markdown-java&show_owner=true&theme=chartreuse-dark)](https://github.com/paion-data/ai-translation4markdown-java)
 [![whisper](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=whisper&show_owner=true&theme=chartreuse-dark)](https://github.com/paion-data/whisper)

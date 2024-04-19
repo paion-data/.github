@@ -89,7 +89,7 @@ Our Open Source Projects
 [![packer-plugin-paion-data](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=packer-plugin-paion-data&show_owner=true&theme=dracula)](https://github.com/paion-data/packer-plugin-paion-data)
 [![github-actions-core](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=github-actions-core&show_owner=true&theme=dracula)](https://paion-data.github.io/github-actions-core/)
 [![screwdriver](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=screwdriver&show_owner=true&theme=dracula)](https://github.com/paion-data/screwdriver)
-[![screwdriver-cd-python-sdk](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=screwdriver-cd-python-sdk&show_owner=true&theme=dracula)](https://github.com/paion-data/screwdriver-cd-python-sdk)
+[![screwdriver-python-sdk](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=screwdriver-python-sdk&show_owner=true&theme=dracula)](https://github.com/paion-data/screwdriver-python-sdk)
 
 [![ReactStyleKit](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=ReactStyleKit&show_owner=true&theme=react)](https://github.com/paion-data/ReactStyleKit)
 

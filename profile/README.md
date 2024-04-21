@@ -80,6 +80,8 @@ We are a group of people **who believe in working for themselves**, **who believ
 Our Open Source Projects
 ------------------------
 
+<img src="https://github.com/paion-data/.github/blob/master/img/iiaas.png?raw=true" width="20%"/>
+
 [![astraios](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=astraios&show_owner=true&theme=slateorange)](https://astraios.io)
 [![elide](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=elide&show_owner=true&theme=slateorange)](https://paion-data.github.io/elide-doc/)
 [![athena](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=athena&show_owner=true&theme=slateorange)](https://paion-data.github.io/athena/)

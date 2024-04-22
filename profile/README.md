@@ -85,7 +85,7 @@ Our Open Source Projects
 </a>
 
 <a href="https://astraios.io/">
-    <img src="https://github.com/paion-data/.github/blob/master/img/astraios.png?raw=true" width="20%"/>
+    <img src="https://github.com/paion-data/.github/blob/master/img/astraios-logo.png?raw=true" width="20%"/>
 </a>
 
 [![elide](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=elide&show_owner=true&theme=slateorange)](https://paion-data.github.io/elide-doc/)

@@ -80,25 +80,13 @@ We are a group of people **who believe in working for themselves**, **who believ
 Our Open Source Projects
 ------------------------
 
+<div align="center">
+
 <a href="https://immutable-infrastructure.com/">
     <img src="https://github.com/paion-data/.github/blob/master/img/iiaas.png?raw=true" width="20%"/>
-</a>
-
+</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://astraios.io/">
     <img src="https://github.com/paion-data/.github/blob/master/img/astraios-logo.png?raw=true" width="20%"/>
 </a>
 
-[![elide](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=elide&show_owner=true&theme=slateorange)](https://paion-data.github.io/elide-doc/)
-[![athena](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=athena&show_owner=true&theme=slateorange)](https://paion-data.github.io/athena/)
-[![maven-central-release-action](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=maven-central-release-action&show_owner=true&theme=slateorange)](https://github.com/marketplace/actions/maven-central-release)
-
-[![packer-plugin-paion-data](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=packer-plugin-paion-data&show_owner=true&theme=dracula)](https://github.com/paion-data/packer-plugin-paion-data)
-[![github-actions-core](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=github-actions-core&show_owner=true&theme=dracula)](https://paion-data.github.io/github-actions-core/)
-[![screwdriver](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=screwdriver&show_owner=true&theme=dracula)](https://github.com/paion-data/screwdriver)
-[![screwdriver-python-sdk](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=screwdriver-python-sdk&show_owner=true&theme=dracula)](https://github.com/paion-data/screwdriver-python-sdk)
-
-[![ReactStyleKit](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=ReactStyleKit&show_owner=true&theme=react)](https://github.com/paion-data/ReactStyleKit)
-
-[![AI Markdown Translator](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=ai-translation4markdown&show_owner=true&theme=chartreuse-dark)](https://github.com/paion-data/ai-translation4markdown)
-[![AI Markdown Translator Java](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=ai-translation4markdown-java&show_owner=true&theme=chartreuse-dark)](https://github.com/paion-data/ai-translation4markdown-java)
-[![whisper](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=whisper&show_owner=true&theme=chartreuse-dark)](https://github.com/paion-data/whisper)
+</div>

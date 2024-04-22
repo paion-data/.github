@@ -84,7 +84,10 @@ Our Open Source Projects
     <img src="https://github.com/paion-data/.github/blob/master/img/iiaas.png?raw=true" width="20%"/>
 </a>
 
-[![astraios](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=astraios&show_owner=true&theme=slateorange)](https://astraios.io)
+<a href="https://astraios.io/">
+    <img src="https://github.com/paion-data/.github/blob/master/img/astraios.png?raw=true" width="20%"/>
+</a>
+
 [![elide](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=elide&show_owner=true&theme=slateorange)](https://paion-data.github.io/elide-doc/)
 [![athena](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=athena&show_owner=true&theme=slateorange)](https://paion-data.github.io/athena/)
 [![maven-central-release-action](https://github-readme-stats.vercel.app/api/pin/?username=paion-data&repo=maven-central-release-action&show_owner=true&theme=slateorange)](https://github.com/marketplace/actions/maven-central-release)

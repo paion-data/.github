@@ -77,7 +77,7 @@ We are a group of people **who believe in working for themselves**, **who believ
 
 </div>
 
-Our Open Source Projects <div align="right"><a href="https://paion-data.github.io/paion-data-service-status/"><img align="center" src="https://img.shields.io/badge/Service%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a></div>
+Our Open Source Projects <a href="https://paion-data.github.io/paion-data-service-status/"><img align="right" src="https://img.shields.io/badge/Service%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
 ------------------------
 
 <div align="center">

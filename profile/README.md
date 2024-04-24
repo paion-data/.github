@@ -88,3 +88,7 @@ Our Open Source Projects <a href="https://status.paion-data.dev/"><img align="ri
 
 - [screwdriver.paion-data.dev](https://screwdriver.paion-data.dev/)
 - [screwdriver-docs.paion-data.dev](https://screwdriver-docs.paion-data.dev/)
+
+##### GitHub
+
+- [Maven Central Release Action](https://github.com/marketplace/actions/maven-central-release)

@@ -88,6 +88,7 @@ Our Open Source Projects <a href="https://status.paion-data.dev/"><img align="ri
 
 - [screwdriver.paion-data.dev](https://screwdriver.paion-data.dev/)
 - [screwdriver-docs.paion-data.dev](https://screwdriver-docs.paion-data.dev/)
+- [Screwdriver CD Marketplace](https://github.com/paion-data/screwdriver-marketplace)
 
 ##### GitHub
 

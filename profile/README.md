@@ -58,7 +58,9 @@ We are a group of people **who believe in working for themselves**, **who believ
             <br />
             <sub><b>paion-data-sd-buildbot</b></sub>
         </a>
-    </td>  
+    </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/pulls?q=is%3Apr+user%3Apaion-data+archived%3Afalse+author%3ATristeOak">
             <img src="https://avatars.githubusercontent.com/u/100420496?v=4" width="100;" alt="TristeOak"/>
@@ -79,7 +81,8 @@ We are a group of people **who believe in working for themselves**, **who believ
             <br />
             <sub><b>LiuS1mple</b></sub>
         </a>
-    </td></tr>
+    </td>
+</tr>
 </table>
 
 </div>

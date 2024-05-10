@@ -46,6 +46,13 @@ We are a group of people **who believe in working for themselves**, **who believ
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/QubitPi">
+            <img src="https://avatars.githubusercontent.com/u/16126939?v=4" width="100;" alt="QubitPi"/>
+            <br />
+            <sub><b>QubitPi</b></sub>
+        </a>
+    </td>    
+    <td align="center">
         <a href="https://github.com/paion-data-sd-buildbot">
             <img src="https://avatars.githubusercontent.com/u/169463847?v=4" width="100;" alt="paion-data-sd-buildbot"/>
             <br />

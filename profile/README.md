@@ -11,13 +11,6 @@ We are a group of people **who believe in working for themselves**, **who believ
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/ziqingbanmianzhuang">
-            <img src="https://avatars.githubusercontent.com/u/103884485?v=4" width="100;" alt="ziqingbanmianzhuang"/>
-            <br />
-            <sub><b>ziqingbanmianzhuang</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/qing-wq">
             <img src="https://avatars.githubusercontent.com/u/93132738?v=4" width="100;" alt="qing-wq"/>
             <br />

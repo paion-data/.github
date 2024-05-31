@@ -48,13 +48,6 @@ We are a group of people **who believe in working for themselves**, **who believ
 </tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/pulls?q=is%3Apr+user%3Apaion-data+archived%3Afalse+author%3AXxy1016">
-            <img src="https://avatars.githubusercontent.com/u/125425805?v=4" width="100;" alt="Xxy1016"/>
-            <br />
-            <sub><b>Xxy1016</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/pulls?q=is%3Apr+user%3Apaion-data+archived%3Afalse+author%3ATristeOak">
             <img src="https://avatars.githubusercontent.com/u/100420496?v=4" width="100;" alt="TristeOak"/>
             <br />

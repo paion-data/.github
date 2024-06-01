@@ -31,13 +31,15 @@ We are a group of people **who believe in working for themselves**, **who believ
             <sub><b>Doom9527</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/QubitPi">
             <img src="https://avatars.githubusercontent.com/u/16126939?v=4" width="100;" alt="QubitPi"/>
             <br />
             <sub><b>QubitPi</b></sub>
         </a>
-    </td>    
+    </td>  
     <td align="center">
         <a href="https://github.com/paion-data-sd-buildbot">
             <img src="https://avatars.githubusercontent.com/u/169463847?v=4" width="100;" alt="paion-data-sd-buildbot"/>
@@ -45,20 +47,11 @@ We are a group of people **who believe in working for themselves**, **who believ
             <sub><b>paion-data-sd-buildbot</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/pulls?q=is%3Apr+user%3Apaion-data+archived%3Afalse+author%3ATristeOak">
             <img src="https://avatars.githubusercontent.com/u/100420496?v=4" width="100;" alt="TristeOak"/>
             <br />
             <sub><b>TristeOak</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/pulls?q=is%3Apr+user%3Apaion-data+archived%3Afalse+author%3Afannifanni">
-            <img src="https://avatars.githubusercontent.com/u/135085401?v=4" width="100;" alt="fannifanni"/>
-            <br />
-            <sub><b>fannifanni</b></sub>
         </a>
     </td>
     <td align="center">

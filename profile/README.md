@@ -74,10 +74,10 @@ Our Open Source Projects <a href="https://status.paion-data.dev/"><img align="ri
 <div align="center">
 
 <a href="https://immutable-infrastructure.com/">
-    <img src="https://github.com/paion-data/.github/blob/master/img/iiaas.png?raw=true" width="20%"/>
+    <img src="https://immutable-infrastructure.com/img/logo.svg" width="20%"/>
 </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://astraios.io/">
-    <img src="https://github.com/paion-data/.github/blob/master/img/astraios-logo.png?raw=true" width="20%"/>
+    <img src="https://astraios.io/img/logo.svg" width="20%"/>
 </a>
 
 </div>

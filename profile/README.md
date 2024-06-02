@@ -91,6 +91,7 @@ Our Open Source Projects <a href="https://status.paion-data.dev/"><img align="ri
 - Elide
 
   - [Elide Spring Boot Example](https://github.com/paion-data/elide-spring-boot-example)
+  - [Elide Standalone Example](https://github.com/paion-data/elide-standalone-example)
 
 ##### GitHub
 

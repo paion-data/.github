@@ -1,6 +1,8 @@
 <div align="center">
 
-We are a group of people **who believe in working for themselves**, **who believe in taking actions to oppose being exploited by lies and untruthful authorities**, and most of all **who believe in the power of young**.
+世界会变、科技会变，但「派昂」不会变，它不会向任何人低头，不会向任何困难低头，甚至不会向「时代」低头。
+
+「派昂」，永远不忘热爱科技的初心。只有那些不向梦想道路上的阻挠认输的人，才能与我们一起追逐梦想
 
 </div>
 

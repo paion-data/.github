@@ -84,7 +84,7 @@ Our Open Source Projects <a href="https://status.paion-data.dev/"><img align="ri
 
 #### Our Incubating Projects
 
-- [Screwdriver CD Marketplace](https://github.com/paion-data/screwdriver-marketplace)
+- [Paion Data CI/CD](https://github.com/paion-data/ci-cd-core)
 - [screwdriver.paion-data.dev](https://screwdriver.paion-data.dev/)
 - [screwdriver-docs.paion-data.dev](https://screwdriver-docs.paion-data.dev/)
 

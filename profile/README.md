@@ -20,6 +20,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ziqingbanmianzhuang">
+            <img src="https://avatars.githubusercontent.com/u/103884485?v=4" width="100;" alt="ziqingbanmianzhuang"/>
+            <br />
+            <sub><b>ziqingbanmianzhuang</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/A-Little-Excited">
             <img src="https://avatars.githubusercontent.com/u/166267528?v=4" width="100;" alt="A-Little-Excited"/>
             <br />
@@ -47,6 +54,13 @@
             <img src="https://avatars.githubusercontent.com/u/169463847?v=4" width="100;" alt="paion-data-sd-buildbot"/>
             <br />
             <sub><b>paion-data-sd-buildbot</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Xxy1016">
+            <img src="https://avatars.githubusercontent.com/u/125425805?v=4" width="100;" alt="Xxy1016"/>
+            <br />
+            <sub><b>Xxy1016</b></sub>
         </a>
     </td>
     <td align="center">

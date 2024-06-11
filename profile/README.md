@@ -13,12 +13,28 @@
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/QubitPi">
+            <img src="https://avatars.githubusercontent.com/u/16126939?v=4" width="100;" alt="QubitPi"/>
+            <br />
+            <sub><b>QubitPi</b></sub>
+        </a>
+    </td>  
+    <td align="center">
         <a href="https://github.com/Doom9527">
             <img src="https://avatars.githubusercontent.com/u/164460473?v=4" width="100;" alt="Doom9527"/>
             <br />
             <sub><b>Doom9527</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/paion-data-sd-buildbot">
+            <img src="https://avatars.githubusercontent.com/u/169463847?v=4" width="100;" alt="paion-data-sd-buildbot"/>
+            <br />
+            <sub><b>paion-data-sd-buildbot</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/qing-wq">
             <img src="https://avatars.githubusercontent.com/u/93132738?v=4" width="100;" alt="qing-wq"/>
@@ -42,20 +58,6 @@
     </td>
 </tr>
 <tr>
-    <td align="center">
-        <a href="https://github.com/QubitPi">
-            <img src="https://avatars.githubusercontent.com/u/16126939?v=4" width="100;" alt="QubitPi"/>
-            <br />
-            <sub><b>QubitPi</b></sub>
-        </a>
-    </td>  
-    <td align="center">
-        <a href="https://github.com/paion-data-sd-buildbot">
-            <img src="https://avatars.githubusercontent.com/u/169463847?v=4" width="100;" alt="paion-data-sd-buildbot"/>
-            <br />
-            <sub><b>paion-data-sd-buildbot</b></sub>
-        </a>
-    </td>
     <td align="center">
         <a href="https://github.com/Xxy1016">
             <img src="https://avatars.githubusercontent.com/u/125425805?v=4" width="100;" alt="Xxy1016"/>

@@ -84,6 +84,11 @@
 
 </div>
 
+Our Free NLP API
+----------------
+
+- Comming up on June 19th, 2024!
+
 Our Open Source Projects <a href="https://status.paion-data.dev/"><img align="right" src="https://img.shields.io/badge/Service%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
 ------------------------
 

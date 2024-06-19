@@ -16,6 +16,7 @@
     <img align="center" src="https://github.com/paion-data/.github/assets/16126939/295e14a8-527f-4703-ab82-9fcb0ad08b16" width="60px" /></a>
     <a href="https://huggingface.co/spaces/QubitPi/graphgpt"><img align="center" src="https://img.shields.io/badge/NLP-GraphGPT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
     <a href="https://huggingface.co/spaces/QubitPi/graphgpt-api-doc"><img align="center" src="https://img.shields.io/badge/NLP-GraphGPT%20API%20DOC-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" /></a>
+    <p align="right">大陆用户需使用 VPN 访问</p>
 </div>
 
 <div align="center">

@@ -6,13 +6,19 @@
 
 </div>
 
-Our Free NLP API
-----------------
+<div align="center">
+    <h2>Our Free Natural Language Processing API</h2>
+</div>
 
-Comming up on **June 19th, 2024**!
+<div align="center">
+     <a href="https://huggingface.co/spaces/QubitPi/graphgpt"><img align="center" src="https://img.shields.io/badge/NLP-GraphGPT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
+     <a href="https://huggingface.co/spaces/QubitPi/graphgpt-api-doc"><img align="center" src="https://img.shields.io/badge/NLP-GraphGPT%20API%20DOC-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" /></a>
+</div>
 
-Our Open Source Projects <a href="https://status.paion-data.dev/"><img align="right" src="https://img.shields.io/badge/Service%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
-------------------------
+<div align="center">
+    <h2>Our Open Source Projects</h2>
+
+</div>
 
 <div align="center">
 
@@ -24,6 +30,8 @@ Our Open Source Projects <a href="https://status.paion-data.dev/"><img align="ri
 </a>
 
 </div>
+
+ <a href="https://status.paion-data.dev/"><img align="right" src="https://img.shields.io/badge/Service%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
 
 #### Our Incubating Projects
 

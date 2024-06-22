@@ -40,7 +40,6 @@
 
 - Theresa API (Paion's homebrewed NLP)
 - [Nexus Graph](https://github.com/paion-data/nexusgraph)
-- [Paion Data CI/CD](https://github.com/paion-data/ci-cd-core)
 - [screwdriver.paion-data.dev](https://screwdriver.paion-data.dev/)
 - [screwdriver-docs.paion-data.dev](https://screwdriver-docs.paion-data.dev/)
 

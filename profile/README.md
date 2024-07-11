@@ -39,7 +39,7 @@
 #### Our Incubating Projects
 
 - Theresa API (Paion's homebrewed NLP)
-- [Nexus Graph](https://github.com/paion-data/nexusgraph)
+- [Nexus Graph](https://nexusgraph.com)
 - [screwdriver.paion-data.dev](https://screwdriver.paion-data.dev/)
 - [screwdriver-docs.paion-data.dev](https://screwdriver-docs.paion-data.dev/)
 

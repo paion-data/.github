@@ -14,6 +14,8 @@
     <b>We are constantly improving our NLP capability and brain storming on giving user experience they never see before</b>
     <br/>
     <img align="center" src="https://github.com/paion-data/.github/assets/16126939/295e14a8-527f-4703-ab82-9fcb0ad08b16" width="60px" /></a>
+    <a href="https://huggingface.co/spaces/QubitPi/speech-recognition"><img align="center" src="https://img.shields.io/badge/NLP-Speech%20Recognition-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
+    <br/>
     <a href="https://huggingface.co/spaces/QubitPi/graphgpt"><img align="center" src="https://img.shields.io/badge/NLP-GraphGPT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
     <a href="https://huggingface.co/spaces/QubitPi/graphgpt-api-doc"><img align="center" src="https://img.shields.io/badge/NLP-GraphGPT%20API%20DOC-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" /></a>
     <p align="right">大陆用户暂需使用 VPN 访问 <img width=70px src="https://github.com/paion-data/.github/assets/16126939/d9c6d188-c810-48d1-a80e-ba0ab1bfc5c2"/> </p>

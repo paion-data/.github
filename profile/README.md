@@ -38,21 +38,27 @@
 
  <a href="https://status.paion-data.dev/"><img align="right" src="https://img.shields.io/badge/Service%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
 
-#### Our Incubating Projects
+Our Incubating Projects
+-----------------------
 
 - Theresa API (Paion's homebrewed NLP)
 - [Nexus Graph](https://nexusgraph.com) (Internal beta-testing now)
 
   https://github.com/user-attachments/assets/95220f38-ca0e-4eb3-8f01-0d6baa916d1d
 
+- [AI Markdown Maven Translate Plugin](https://github.com/paion-data/maven-translation4markdown-plugin)
+
+### Screwdriver CD
+
 - [screwdriver.paion-data.dev](https://screwdriver.paion-data.dev/)
 - [screwdriver-docs.paion-data.dev](https://screwdriver-docs.paion-data.dev/)
 
-- Elide
+### Elide
 
-  - [Elide Spring Boot Example](https://github.com/paion-data/elide-spring-boot-example)
-  - [Elide Standalone Example](https://github.com/paion-data/elide-standalone-example)
+- [Elide](https://github.com/paion-data/elide)
+- [Elide Spring Boot Example](https://github.com/paion-data/elide-spring-boot-example)
+- [Elide Standalone Example](https://github.com/paion-data/elide-standalone-example)
 
-##### GitHub
+### GitHub
 
 - [Maven Central Release Action](https://github.com/marketplace/actions/maven-central-release)

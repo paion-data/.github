@@ -41,11 +41,11 @@
 Our Incubating Projects
 -----------------------
 
-- Theresa API (Paion's homebrewed NLP)
 - [Nexus Graph](https://nexusgraph.com) (Internal beta-testing now)
 
   https://github.com/user-attachments/assets/95220f38-ca0e-4eb3-8f01-0d6baa916d1d
 
+- Theresa API (Paion's homebrewed NLP)
 - [AI Markdown Maven Translate Plugin](https://github.com/paion-data/maven-translation4markdown-plugin)
 
 ### Screwdriver CD

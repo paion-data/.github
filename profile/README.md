@@ -36,9 +36,7 @@
 
 </div>
 
- <a href="https://status.paion-data.dev/"><img align="right" src="https://img.shields.io/badge/Service%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
-
-Our Incubating Projects
+Our Incubating Projects <a href="https://status.paion-data.dev/"><img align="right" src="https://img.shields.io/badge/Service%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
 -----------------------
 
 - [Nexus Graph](https://nexusgraph.com) (Internal beta-testing now)

@@ -22,6 +22,10 @@
 </div>
 
 
+<a href="https://github.com/search?q=user%3Apaion-data+label%3A%22HELP+WANTED%22+state%3Aopen&type=Issues&ref=advsearch&l=&l="><img align="right" src="https://img.shields.io/badge/Contributing%20to%20Paion%20Data-129817?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://status.paion-data.dev/"><img align="right" src="https://img.shields.io/badge/Service%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
+
+
 <div align="center">
     <h2>Our Open Source Projects</h2>
 </div>    
@@ -36,10 +40,6 @@
 </a>
 
 </div>
-
-<a href="https://github.com/search?q=user%3Apaion-data+label%3A%22HELP+WANTED%22+state%3Aopen&type=Issues&ref=advsearch&l=&l="><img align="right" src="https://img.shields.io/badge/Contributing%20to%20Paion%20Data-129817?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://status.paion-data.dev/"><img align="right" src="https://img.shields.io/badge/Service%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
-
 
 Our Incubating Projects
 -----------------------

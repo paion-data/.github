@@ -45,11 +45,6 @@ Our Incubating Projects
 - Theresa API (Paion's homebrewed NLP)
 - [AI Markdown Maven Translate Plugin](https://github.com/paion-data/maven-translation4markdown-plugin)
 
-### Screwdriver CD
-
-- [screwdriver.paion-data.dev](https://screwdriver.paion-data.dev/)
-- [screwdriver-docs.paion-data.dev](https://screwdriver-docs.paion-data.dev/)
-
 ### Elide
 
 - [Elide](https://github.com/paion-data/elide)

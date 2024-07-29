@@ -13,6 +13,7 @@
 <div align="center">
     <b>We are constantly improving our NLP capability and brain storming on giving user experience they never see before</b>
     <br/>
+    <br/>
     <a href="https://huggingface.co/spaces/QubitPi/graphgpt"><img align="center" src="https://img.shields.io/badge/NLP-GraphGPT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
     <a href="https://huggingface.co/spaces/QubitPi/graphgpt-api-doc"><img align="center" src="https://img.shields.io/badge/NLP-GraphGPT%20API%20DOC-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" /></a>
     <a href="https://huggingface.co/spaces/QubitPi/speech-recognition"><img align="center" src="https://img.shields.io/badge/NLP-Speech%20Recognition-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" /></a>

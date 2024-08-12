@@ -18,7 +18,7 @@
     <a href="https://huggingface.co/spaces/QubitPi/graphgpt-api-doc"><img align="center" src="https://img.shields.io/badge/NLP-GraphGPT%20API%20DOC-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" /></a>
     <a href="https://huggingface.co/spaces/QubitPi/speech-recognition"><img align="center" src="https://img.shields.io/badge/NLP-Speech%20Recognition-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
     <p align="right">大陆用户暂需使用 VPN 访问 <img width=70px src="https://github.com/paion-data/.github/assets/16126939/d9c6d188-c810-48d1-a80e-ba0ab1bfc5c2"/> </p>
-    <p align="left"><img align="center" src="https://github.com/paion-data/.github/assets/16126939/295e14a8-527f-4703-ab82-9fcb0ad08b16" width="60px" />没有 VPN？<a href="https://hub.docker.com/r/jack20191124/graphgpt"><img src="https://img.shields.io/badge/GraphGPT%20Docker-309DEE?style=for-the-badge&logo=docker&logoColor=white" /></a></p>
+    <p align="left">没有 VPN？<a href="https://hub.docker.com/r/jack20191124/graphgpt"><img src="https://img.shields.io/badge/GraphGPT%20Docker-309DEE?style=for-the-badge&logo=docker&logoColor=white" /></a></p>
 </div>
 
 Our Open Source Projects <a href="https://github.com/search?q=user%3Apaion-data+label%3A%22HELP+WANTED%22+state%3Aopen&type=Issues&ref=advsearch&l=&l="><img align="right" src="https://img.shields.io/badge/Contributing%20to%20Paion%20Data-129817?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://status.paion-data.dev/"><img align="right" src="https://img.shields.io/badge/Service%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
@@ -34,6 +34,8 @@ Our Open Source Projects <a href="https://github.com/search?q=user%3Apaion-data+
 </a>
 
 </div>
+
+<img align="center" src="https://github.com/paion-data/.github/assets/16126939/295e14a8-527f-4703-ab82-9fcb0ad08b16" width="60px" /> [astraios.io Data Models Example](https://github.com/paion-data/astraios-data-models-example)
 
 Our Incubating Projects
 -----------------------

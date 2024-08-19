@@ -51,15 +51,6 @@ Our Incubating Projects
 
   https://github.com/user-attachments/assets/95220f38-ca0e-4eb3-8f01-0d6baa916d1d
 
-- Theresa API (Paion's homebrewed NLP)
-- [AI Markdown Maven Translate Plugin](https://github.com/paion-data/maven-translation4markdown-plugin)
-
-### Elide
-
-- [Elide](https://github.com/paion-data/elide)
-- [Elide Spring Boot Example](https://github.com/paion-data/elide-spring-boot-example)
-- [Elide Standalone Example](https://github.com/paion-data/elide-standalone-example)
-
 ### GitHub
 
 - [Maven Central Release Action](https://github.com/marketplace/actions/maven-central-release)

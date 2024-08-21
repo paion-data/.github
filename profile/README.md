@@ -25,8 +25,10 @@ Our Language Projects
 ---------------------
 
 <div align="center">
-    <img align="center" src="https://github.com/user-attachments/assets/062bb2b1-4642-4a13-ba57-d8c07ebbd4ca" width="60px" /> <a href="https://qubitpi.github.io/ancient-greek-reader/"><img align="center" src="https://img.shields.io/badge/Ancient%20Greek%20Pronunciation%20Reconstruction%20with%20AI-00AEB0?style=for-the-badge" /></a> <img align="center" src="https://github.com/paion-data/.github/assets/16126939/295e14a8-527f-4703-ab82-9fcb0ad08b16" width="60px" />
+     <img align="center" src="https://github.com/user-attachments/assets/062bb2b1-4642-4a13-ba57-d8c07ebbd4ca" width="60px" /> <a href="https://wilhelm.qubitpi.org/"><img align="center" src="https://img.shields.io/badge/Wilhelm-00AEB0?style=for-the-badge" /></a> <img align="center" src="https://github.com/paion-data/.github/assets/16126939/295e14a8-527f-4703-ab82-9fcb0ad08b16" width="60px" />
 </div>
+
+<img align="center" src="https://github.com/user-attachments/assets/062bb2b1-4642-4a13-ba57-d8c07ebbd4ca" width="60px" /> <a href="https://qubitpi.github.io/ancient-greek-reader/"><img align="center" src="https://img.shields.io/badge/Ancient%20Greek%20Pronunciation%20Reconstruction%20with%20AI-00AEB0?style=for-the-badge" /></a>
 
 Our Open Source Projects <a href="https://github.com/search?q=user%3Apaion-data+label%3A%22HELP+WANTED%22+state%3Aopen&type=Issues&ref=advsearch&l=&l="><img align="right" src="https://img.shields.io/badge/Contributing%20to%20Paion%20Data-129817?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://status.paion-data.dev/"><img align="right" src="https://img.shields.io/badge/Service%20Status-1ABC9C?style=for-the-badge&logo=upptime&logoColor=white" /></a>
 ------------------------

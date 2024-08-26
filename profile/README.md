@@ -23,10 +23,10 @@
 
 Our Language Projects
 ---------------------
-
+<!--
 <div align="center">
      <img align="center" src="https://github.com/user-attachments/assets/062bb2b1-4642-4a13-ba57-d8c07ebbd4ca" width="60px" /> <a href="https://wilhelmlang.com/"><img align="center" src="https://img.shields.io/badge/wilhelmlang.com-00AEB0?style=for-the-badge" /></a> <img align="center" src="https://github.com/paion-data/.github/assets/16126939/295e14a8-527f-4703-ab82-9fcb0ad08b16" width="60px" />
-</div>
+</div> -->
 
 <img align="center" src="https://github.com/user-attachments/assets/062bb2b1-4642-4a13-ba57-d8c07ebbd4ca" width="60px" /> <a href="https://qubitpi.github.io/ancient-greek-reader/"><img align="center" src="https://img.shields.io/badge/Ancient%20Greek%20Pronunciation%20Reconstruction%20with%20AI-00AEB0?style=for-the-badge" /></a>
 

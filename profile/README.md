@@ -40,6 +40,7 @@ Our Open Source Projects <a href="https://github.com/search?q=user%3Apaion-data+
 Our Incubating Projects
 -----------------------
 
+- [Aristotle](https://github.com/paion-data/aristotle)
 - [Nexus Graph](https://nexusgraph.com) (Internal beta-testing now)
 
   https://github.com/user-attachments/assets/95220f38-ca0e-4eb3-8f01-0d6baa916d1d

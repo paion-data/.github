@@ -35,8 +35,6 @@ Our Open Source Projects <a href="https://github.com/search?q=user%3Apaion-data+
 
 </div>
 
-[astraios.io Data Models Example](https://github.com/paion-data/astraios-data-models-example)
-
 Our Incubating Projects
 -----------------------
 

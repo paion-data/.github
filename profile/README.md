@@ -1,5 +1,3 @@
-![logo](https://github.com/user-attachments/assets/03b156c4-1aa6-43d9-8385-475ea578fbe3)<div align="center">
-
 世界会变、科技会变，但「派昂」不会变，它不会向任何人低头，不会向任何困难低头，甚至不会向「时代」低头。
 
 「派昂」，永远引领对科技的热爱。只有那些不向梦想道路上的阻挠认输的人，才配得上与我们一起追逐梦想
@@ -11,7 +9,7 @@ Our Open Source Projects <a href="https://github.com/search?q=user%3Apaion-data+
 
 <div align="center">
 
-<a href="https://astraios.io/">
+<a href="https://aristotle-ws.com">
     <img src="https://aristotle-ws.com/img/logo.svg" width="20%"/>
 </a>
 

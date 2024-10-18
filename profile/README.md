@@ -15,10 +15,9 @@ Our Open Source Projects <a href="https://github.com/search?q=user%3Apaion-data+
 
 </div>
 
-Our Incubating Projects
+Our Satelllite Projects
 -----------------------
 
-- [Aristotle](https://github.com/paion-data/aristotle)
 - [Aristotle Acceptance Tests framework](https://github.com/paion-data/aristotle-acceptance-tests/tree/master)
 - [Nexus Graph](https://nexusgraph.com) (Internal beta-testing now)
 

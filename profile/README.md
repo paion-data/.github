@@ -26,4 +26,3 @@ Our Satelllite Projects
   - [Galileo](https://github.com/paion-data/galileo)
 
 - [Maven Central Release Action](https://github.com/marketplace/actions/maven-central-release)
-- [Paion's API Gateway](https://github.com/paion-data/docker-kong)

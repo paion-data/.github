@@ -21,9 +21,9 @@ Our Satelllite Projects
 -----------------------
 
 - [Aristotle Acceptance Tests framework](https://github.com/paion-data/aristotle-acceptance-tests/tree/master)
-- [Nexus Graph](https://nexusgraph.com) (Internal beta-testing now)
+- [Nexus Graph](https://nexusgraph.com)
 
-  https://github.com/user-attachments/assets/95220f38-ca0e-4eb3-8f01-0d6baa916d1d
+  - [Galileo](https://github.com/paion-data/galileo)
 
 - [Maven Central Release Action](https://github.com/marketplace/actions/maven-central-release)
 - [Paion's API Gateway](https://github.com/paion-data/docker-kong)
